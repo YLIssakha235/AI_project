@@ -3,3 +3,11 @@ venv
 data
 __pycache__
 
+.png
+// Ignore all .png files
+!important_image.png
+# Ignore all .jpg files
+*.jpg
+# Ignore all .jpeg files
+*.jpeg
+*.png
